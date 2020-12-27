@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"alwaysStrict": true,
+		"outDir": "dist",
+		"downlevelIteration": true,
+		"strictNullChecks": false,
+		"strict": true,
+		"allowSyntheticDefaultImports": true,
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"target": "es5",
+		"esModuleInterop": true,
+		"sourceMap": true,
+		"lib": ["esnext"]
+	}
+}
